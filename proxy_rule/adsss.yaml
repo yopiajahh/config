@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN,adtago.s3.amazonaws.com
+  - DOMAIN,analyticsengine.s3.amazonaws.com
+  - DOMAIN,analytics.s3.amazonaws.com
+  - DOMAIN,advice-ads.s3.amazonaws.com
+  - DOMAIN,advertising-api-eu.amazon.com
